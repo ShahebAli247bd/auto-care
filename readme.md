@@ -11,15 +11,27 @@ Welcome to the **Auto Care** project repository! This project is designed to sho
 
 ---
 
+
+### **GIFs**
+
+**Auto Care Thumbnail Preview**  
+![Autocar Thumbnail Preview](autocar-thumb-gif_preview.gif)
+
+**Auto Care GIF**  
+![Autocar Thumbnail GIF](autocar-thumb-gif.gif)
+
+---
+
 ## **Preview Images**
 
 ### Desktop Previews
 
-**Dark Theme**  
-![Dark Desktop](dark-desk.png)
-
 **Light Theme**  
 ![Light Desktop](light-desktop.png)
+
+
+**Dark Theme**  
+![Dark Desktop](dark-desk.png)
 
 ### Mobile Previews
 
@@ -31,15 +43,6 @@ Welcome to the **Auto Care** project repository! This project is designed to sho
 
 ---
 
-### **GIFs**
-
-**Auto Care Thumbnail Preview**  
-![Autocar Thumbnail Preview](autocar-thumb-gif_preview.gif)
-
-**Auto Care GIF**  
-![Autocar Thumbnail GIF](autocar-thumb-gif.gif)
-
----
 
 ## **Setup Instructions**
 
